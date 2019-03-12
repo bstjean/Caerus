@@ -11,18 +11,18 @@ As of 2019-03-10, Caerus (v0.02) was just a very incomplete (with sloppy code!) 
 
 Future plans include : 
 
--portability (at least for the headless app) with Cuis and Squeak 
--a basic UI (compatible across Cuis & Squeak dialects if that is possible) 
--a faster and more compact Move representation involving bit operations 
--a hash table in preparation for search algorithms with iterative deepening 
--full automation so the engine can play all by itself unattended on the LittleGolem server 
--multiple search algorithms (MCTS, random, expectimax, etc) 
--multiple search controls (time per move, time per game, time per N moves, N search depth, N Monte-Carlo simulations) 
--create a tournament manager to test versions & search parameters against each other 
--capability to distribute searches on multiple VMs & computers & OS 
--creation of an opening book on SQLite 
--ability to play headless as a "shell app" 
+-portability (at least for the headless app) with Cuis and Squeak   
+-a basic UI (compatible across Cuis & Squeak dialects if that is possible)   
+-a faster and more compact Move representation involving bit operations   
+-a hash table in preparation for search algorithms with iterative deepening   
+-full automation so the engine can play all by itself unattended on the LittleGolem server   
+-multiple search algorithms (MCTS, random, expectimax, etc)   
+-multiple search controls (time per move, time per game, time per N moves, N search depth, N Monte-Carlo simulations)   
+-create a tournament manager to test versions & search parameters against each other   
+-capability to distribute searches on multiple VMs & computers & OS   
+-creation of an opening book on SQLite   
+-ability to play headless as a "shell app"   
 
-This **README** is still under development.   
-
-More details on this engine's development will be found on my blog [L'endormitoire](http://www.endormitoire.wordpress.com).  
+This **README** is still under development.  
+   
+More details on this engine's development will be found on my blog [L'endormitoire](http://www.endormitoire.wordpress.com).    
